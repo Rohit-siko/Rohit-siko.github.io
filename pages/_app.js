@@ -10,7 +10,6 @@ import '../public/css/responsive.scss';
 import { Preloader, Placeholder } from 'react-preloading-screen';
 import App from 'next/app';
 import Head from 'next/head';
-
 import GoTop from 'components/Shared/GoTop';
 import Loader from 'components/Shared/Loader';
 
